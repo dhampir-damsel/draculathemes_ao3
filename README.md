@@ -13,9 +13,9 @@ Navigate to Profile -> Skins -> Create Site Skin and copy/paste the theme you wa
 
 This theme is maintained by the following person:
 
-[![Mirella](https://github.com/dhampir-damsel.png?size=100)](https://github.com/dhampir-damsel) |
+[![Katherine](https://github.com/dhampir-damsel.png?size=100)](https://github.com/dhampir-damsel) |
 --- |
-[Mirella](https://github.com/dhampir-damsel) |
+[Katherine](https://github.com/dhampir-damsel) |
 
 ## License
 
